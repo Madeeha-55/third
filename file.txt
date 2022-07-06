@@ -1,2 +1,3 @@
 hello this is prac
 tyoing through git hub
+again trying through terminal
